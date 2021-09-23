@@ -1,0 +1,4 @@
+memo.hs
+*.hi
+*.o
+main
